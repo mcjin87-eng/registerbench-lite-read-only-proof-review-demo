@@ -1,0 +1,9 @@
+RegisterBench Lite v1.0.0 — Free Read-Only Sample
+
+Open RegisterBench-Lite-Read-Only-Demo.html in a modern JavaScript-enabled browser. The included fictional three-proof example loads automatically and is summarized locally. The app makes no network requests unless you choose the paid-edition link.
+
+Lite limits: this edition is view-only. It does not allow entering or editing proof readings, starting a blank review, adding proof sheets, importing/saving JSON, or exporting observation/summary CSV. The full edition's guide PDFs and worked-example files are not included. Standard browser printing may vary by device.
+
+Scope: RegisterBench summarizes manually entered offsets and does not measure a print, diagnose causes, establish tolerances, or recommend press settings. The sample values are fictional. Physical press and field testing were not performed. No print-quality or production outcome is guaranteed.
+
+Paid edition: https://mcjinster.gumroad.com/l/abnlk
